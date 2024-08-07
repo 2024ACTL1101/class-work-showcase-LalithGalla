@@ -37,8 +37,8 @@ This is written in markdown language.
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Lalith Galla:** 
 
-Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
+ACTL1101 has been a really engaging course that has inevitably been difficult at times, but incredibly rewarding nonetheless. It has given be a great overview of the various components relevant to actuarial science. The work in both the coding assignments is mine. After ACTL1101, I feel much more prepared and excited for my future career.
 
 😄😄😄
